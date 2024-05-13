@@ -1,6 +1,6 @@
 # system-design-revision
 
-# [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://youtu.be/-W9F__D3oY4?si=oE2LquIcABKw5T8L)
+## [CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development](https://youtu.be/-W9F__D3oY4?si=oE2LquIcABKw5T8L)
 
 Complete lecture is well summurised in  [Harvard_CS75_Notes](https://ninefu.github.io/blog/Harvard_CS75_Notes/)  and
 [medium post/sakshi8699](https://sakshi8699.medium.com/notes-from-harvard-scalability-lecture-56d9c04f4ab2). 
