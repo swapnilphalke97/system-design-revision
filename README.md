@@ -54,3 +54,5 @@ More concise summuary is,
 - *Purpose:* Replication involves duplicating data across multiple locations or servers for redundancy and improved availability.
 - *Techniques:* Master-slave replication, multi-master replication.
 - *Benefits:* Enhances fault tolerance, reduces data loss risk, improves system reliability.
+  
+Another article to help understand scalibility - [https://newsletter.ashishps.com/p/scalability](https://newsletter.ashishps.com/p/scalability)
